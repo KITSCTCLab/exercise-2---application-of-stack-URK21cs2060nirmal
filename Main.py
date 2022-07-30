@@ -8,7 +8,7 @@ class Evaluate:
     # Write your code here
 
 
-  def__init__(self, size):
+  def __init__(self, size):
     """Inits Evaluate with top, size_of_stack and stack.
     Arguments:
       top:An integer which points to the top most element in the stack.
